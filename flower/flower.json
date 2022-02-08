@@ -1,0 +1,13 @@
+var flowers = `[{"name": "Rose",
+    "image": "flowers.jpeg",
+    "price": 4 ,
+    "qtty": 0
+},{"name": "Lalia",
+    "image": "kyt.jpeg",
+    "price": 8 ,
+    "qtty": 0
+},{"name": "Orchidea",
+    "image": "lotus.png",
+    "price": 12 ,
+    "qtty": 0
+    }]`
